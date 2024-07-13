@@ -1,5 +1,5 @@
 body{text-align:center;background-color:black;color:white;font-family: "Lucida Console", "Courier New", monospace;}
-h1{font-weight:bolder;}
+main #title{font-weight:bolder;font-size:5rem;margin-bottom:0;}
 
 #img-div{align-items:center;}
 #image{max-width:100%;height:auto;display:block;margin: 0 auto;}
