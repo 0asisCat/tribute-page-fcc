@@ -1,5 +1,7 @@
 body{text-align:center;background-color:black;color:white;font-family: "Lucida Console", "Courier New", monospace;}
-main #title{font-weight:bolder;font-size:5rem;margin-bottom:0;}
-
+#title{font-weight:bolder;font-size:5rem;margin-bottom:0;}
+#title, h2, h3{background-color: white;color: black;margin:4px;}
+.work{margin:auto;width:40%;}
+ul li{text-align:left;}
 #img-div{align-items:center;}
 #image{max-width:100%;height:auto;display:block;margin: 0 auto;}
