@@ -1,7 +1,9 @@
 body{text-align:center;background-color:black;color:white;font-family: "Lucida Console", "Courier New", monospace;}
 #title{font-weight:bolder;font-size:4rem;margin:0 auto;border-radius:10px;width:50%;height:auto;text-align:center;}
-#title, h2, h3{background-color: white;color: black;margin:4px;}
+#title, h2, h3{background-color: white;color: black;padding:20px;}
 .work{margin:auto;width:40%;}
 ul li{text-align:left;}
 #img-div{align-items:center;}
 #image, img{max-width:100%;height:auto;display:block;margin: 0 auto;}
+figure:not(#image){background-color: rgb(22, 22, 22);}
+#bibli{display:flex;justify-content: space-evenly;flex-direction: row;}
